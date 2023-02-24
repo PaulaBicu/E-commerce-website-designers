@@ -1,0 +1,18 @@
+<div class="container">
+    <h3>Politica de retur</h3>
+<p>Produsele achizitionate la distanta se pot returna conform O.U.G. 34/2014: consumatorul are dreptul sa notifice in scris comerciantul ca renunta la cumparare, fara penalitati si fara invocarea unui motiv, in termen de 14 calendaristice zile de la primirea produsului sau, in cazul prestarilor de servicii, de la incheierea contractului. Returnarea produselor se va face pe cheltuiala clientului, in termen de 14 zile calendaristice de la denuntarea contractului. Se recomanda utlizarea aceluiasi serviciu de transport utilizat pentru receptionarea produselor</p>
+
+<p>Firma de curierat va inapoia contravaloarea comenzii in cel mai scurt timp posibil de la primirea produsului returnat. Suma inapoiata cat si conditiile de returnare nu includ cheltuielile de transport daca livrarea s-a facut prin alte metode decat cea standard oferita de Firma de curierat</p>
+
+<p>Definitia contractului de vanzare (art. 2, 5.): orice contract in temeiul caruia profesionistul transfera sau se angajeaza sa transfere proprietatea asupra unor produse catre consumator, iar consumatorul plateste sau se angajeaza sa plateasca pretul acestora, inclusiv orice contract care are drept obiect atat produse, cat si servicii.</p>
+
+<p>Art. 12 mentioneaza ca exercitarea dreptului de retragere pune capat obligatiilor partilor contractuale. Produsul returnat trebuie sa fie in aceeasi stare in care a fost livrat (de preferat in ambalajul original cu toate accesoriile, cu etichetele intacte si documentele care l-au insotit). Nu se accepta pentru returnare produsele care prezinta modificari fizice, lovituri, ciobiri, zgarieturi, socuri, urme de folosire excesiva si/sau interventii neautorizate etc.</p>
+
+<p>Prevederile OUG 34/2014 se aplica doar consumatorului definit ca orice persoana fizica sau grup de persoane fizice constituite in asociatii asa cum sunt definite la art. 2 pct. 2 OG 21/1992 privind protectia consumatorilor, republicata, cu modificarile si completarile ulterioare si doar in cazul contractelor la distanta ( orice contract incheiat intre profesionist si consumator in cadrul unui sistem de vanzari la distanta organizat, fara prezenta fizica simultana a profesionistului si a consumatorului, cu utilizarea exclusiva a unuia sau a multor mijloace de comunicare la distanta, panala si inclusiv in momentul in care este incheiat contractul).</p>
+
+ 
+
+<p>Consumatorul este responsabil doar in ce priveste diminuarea valorii produselor rezultata din manipularea acestora, diferit de ceea ce este necesar pentru determinarea naturii, caracteristicilor si functionarii produselor. In conformitate cu Directiva 2011/83/UE, punctul (47) din prezentare: pentru a stabili natura, caracteristicile si modul de functionare a bunurilor, consumatorul ar trebui sa le manuiasca si sa le inspecteze in acelasi mod in care i s-ar permite sa-o faca intr-un magazin; de exemplu, consumatorul ar trebui doar sa probeze un articol de imbracaminte, nu sa il poarte.</p>
+
+<p>Unele produse sunt marcate cu un sigiliu aplicat de producator pe ambalaj. Acest sigiliu nu este prezent in mod obligatoriu, prezenta lui fiind specifica producatorului. Prezenta sigiliului nu este obligatorie pentru a demonstra ca produsul este exact in forma si conditiile in care a fost eliberat de catre producator. Deteriorarea sigiliului nu aduce nici o limitare dreptului de renuntare la contract.</p>
+</div>
